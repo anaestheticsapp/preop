@@ -1,13 +1,8 @@
 {
   "name": "preop",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Open source pre-op chart",
   "main": "index.js",
-  "scripts": {
-    "dev": "rollup --c --environment BUILD:production",
-    "watch": "rollup --config --environment BUILD:development --watch",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "preop"
   ],
